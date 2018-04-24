@@ -1,0 +1,15 @@
+{
+    [
+        akamud.vscode-theme-onedark,
+        dbaeumer.jshint,
+        dbaeumer.vscode-eslint,
+        emmanuelbeziat.vscode-great-icons,
+        file-icons.file-icons,
+        HookyQR.beautify,
+        kubosho.ecsstractor,
+        mkaufman.HTMLHint,
+        ms-python.python,
+        ms-vscode.atom-keybindings,
+        msjsdiag.debugger-for-chrome,
+    ]
+}

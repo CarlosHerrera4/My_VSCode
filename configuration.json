@@ -1,0 +1,29 @@
+{
+    "vim.disableAnnoyingNeovimMessage": true,
+    "window.zoomLevel": -1,
+    "editor.minimap.enabled": true,
+    "workbench.iconTheme": "file-icons",
+    "workbench.colorTheme": "Atom One Dark",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "git.path": null,
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideTabs": false,
+    "workbench.activityBar.visible": false,
+    "editor.fontSize": 15,
+    "python.disablePromptForFeatures": [
+        "pylint"
+    ],
+    "editor.minimap.side": "left",
+    "markdown.preview.fontSize": 50,
+    "markdown.preview.lineHeight": 20
+}
